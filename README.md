@@ -1,4 +1,4 @@
-# hysteretic-paths
+# hysteresis-paths
 
 Compute hysteretic paths for a give network. See the Jupyter notebooks for examples of how to compute and read the data.
 
